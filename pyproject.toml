@@ -1,0 +1,7 @@
+[project]
+name = "data-algorithms"
+version = "0.1.0"
+description = "algorithms written in python"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
